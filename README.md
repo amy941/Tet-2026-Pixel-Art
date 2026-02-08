@@ -1,14 +1,18 @@
 # Tết 2026    |   Phạm Minh Châu (Amy) 💜 
-## INTRO
+## 1) INTRO
 **Một buổi sáng thức dậy và cảm thấy muốn tô màu :)**
 
 This project started on a whim. One day I woke up and felt like coloring something :)
 
 🔗**LINK:**  
+ Press ''F9'' for fireworks show :)
+
+https://github.com/user-attachments/assets/84998c11-89af-4260-a866-b157a455f877
 
 
 
-## SYMBOLS & MEANINGS
+
+## 2) SYMBOLS & MEANINGS
 
 🏵️**Cây mai: Màu vàng của cây mai biểu trưng cho sự thịnh vượng và may mắn trong văn hóa Việt. Cây mai còn đại diện cho sự kiên cường và bền bỉ nhờ khả năng sống sót trong những điều kiện khắc nghiệt.**
    
@@ -40,7 +44,7 @@ This project started on a whim. One day I woke up and felt like coloring somethi
 🎋**Bamboo pole** is a traditional symbol meant to ward off evil spirits, bring peace, good fortune while honoring ancestors.
 
  
-## CONCLUSION
+## 3) CONCLUSION
 **Mong những biểu tượng hoạt hình này đem lại cho mọi người những phút giây thư giãn và một chút không khí Tết cho đỡ nhớ nhà.** 
 
 **Chúc nhà nhà Tết Nguyên Đán 2026 đầy hạnh phúc, bình an và thịnh vượng!**
