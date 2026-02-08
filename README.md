@@ -45,6 +45,6 @@ This project started on a whim. One day I woke up and felt like coloring somethi
 
 **Chúc nhà nhà Tết Nguyên Đán 2026 đầy hạnh phúc, bình an và thịnh vượng!**
 
-May this Tet-themed project bring happiness and festive cheer to all. 
+May this Tết-themed project bring happiness and festive cheer to all. 
 
 Wishing everyone a joyful and prosperous Lunar New Year 2026!
