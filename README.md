@@ -4,7 +4,7 @@
 
 This project started on a whim. One day I woke up and felt like coloring something :)
 
-🔗**LINK:** [TET 2026_Excel](https://github.com/amy941/Tet-2026-Pixel-Art/blob/main/TET%202026.xlsx)
+✅**LINK:** [TET 2026_Excel](https://github.com/amy941/Tet-2026-Pixel-Art/blob/main/TET%202026.xlsx)
 
 Click `View Raw` to download.
 
