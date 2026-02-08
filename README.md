@@ -1,4 +1,5 @@
-# Tết-2026-Pixel-Art
+# Tết-2026-Pixel-Art         
+BY: Phạm Minh Châu (Amy) 💜
 ## INTRO
 **Một buổi sáng thức dậy và cảm thấy muốn tô màu :)**
 
@@ -41,9 +42,9 @@ This project started on a whim. One day I woke up and felt like coloring somethi
 
  
 ## CONCLUSION
-**Mong những biểu tượng hoạt hình này đem lại cho mọi người những phút giây thư giãn và một chút không khí Tết cho đỡ nhớ nhà. 
+**Mong những biểu tượng hoạt hình này đem lại cho mọi người những phút giây thư giãn và một chút không khí Tết cho đỡ nhớ nhà.** 
 
-Chúc nhà nhà Tết Nguyên Đán 2026 đầy hạnh phúc, bình an và thịnh vượng!**
+**Chúc nhà nhà Tết Nguyên Đán 2026 đầy hạnh phúc, bình an và thịnh vượng!**
 
 May this Tet-themed project bring happiness and festive cheer to all. 
 
