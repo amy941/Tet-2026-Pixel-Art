@@ -6,4 +6,6 @@ This project started on a whim. One day I woke up and felt like coloring somethi
 🔗LINK: 
 ## SYMBOLS & MEANINGS
 
-1) Cây mai: Màu vàng của cây mai biểu trưng cho sự thịnh vượng và may mắn trong văn hóa Việt. Cây mai còn đại diện cho sự kiên cường và bền bỉ nhờ khả năng sống sót trong những điều kiện khắc nghiệt
+1) 🌼 <span style="color:gold;">cây mai</span>
+
+ Màu vàng của cây mai biểu trưng cho sự thịnh vượng và may mắn trong văn hóa Việt. Cây mai còn đại diện cho sự kiên cường và bền bỉ nhờ khả năng sống sót trong những điều kiện khắc nghiệt
