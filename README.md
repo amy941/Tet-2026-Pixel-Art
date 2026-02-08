@@ -54,4 +54,5 @@ https://github.com/user-attachments/assets/84998c11-89af-4260-a866-b157a455f877
 
 May this Tết-themed project bring happiness and festive cheer to all. 
 
-Wishing everyone a joyful and prosperous Lunar New Year 2026!
+Wishing everyone a joyful and prosperous Lunar New Year 2026! 🧧🐎✨🎉
+
