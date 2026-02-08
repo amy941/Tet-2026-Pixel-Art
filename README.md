@@ -5,7 +5,7 @@
 This project started on a whim. One day I woke up and felt like coloring something :)
 
 🔗**LINK:**  
- Press ''F9'' for fireworks show :)
+ Press ```F9``` for fireworks show :)
 
 https://github.com/user-attachments/assets/84998c11-89af-4260-a866-b157a455f877
 
