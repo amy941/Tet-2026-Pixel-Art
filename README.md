@@ -4,7 +4,7 @@
 
 This project started on a whim. One day I woke up and felt like coloring something :)
 
-🔗LINK: 
+🔗**LINK:**  
 
 
 
