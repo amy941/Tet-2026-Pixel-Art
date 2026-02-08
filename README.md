@@ -1,5 +1,4 @@
-# Tết-2026-Pixel-Art         
-BY: Phạm Minh Châu (Amy) 💜
+# Tết 2026    |   Phạm Minh Châu (Amy) 💜
 ## INTRO
 **Một buổi sáng thức dậy và cảm thấy muốn tô màu :)**
 
